@@ -1,5 +1,5 @@
 # RTDiffusionModels
-Using RT diffusion models in R to calculate SAT in 2CRT data
+<b> Using RT diffusion models in R to calculate SAT in 2CRT data <b/> 
 
 This project uses the EZ diffusion model to analyze reaction time (RT) distributions for a two-choice reaction time (2CRT) experiment. 
 The goal was to model speed-accuracy tradeoffs (SAT) in RT data using a diffusion model.
