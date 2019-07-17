@@ -5,7 +5,7 @@ This project reviews how diffusion models can be used to analyze reaction time (
 
 Details of the files for this project
 
-1. "DSouza 2019.docx" A methodology review paper on 
+1. "DSouza 2019.pdf" A methodology review paper on 
 - the utility and challenges of modelling SATs in RT data
 - applying diffusion models to RT data
 - a practical software implementation of the EZ-diffusion model to model SATs in choice RT data using the R programming language
